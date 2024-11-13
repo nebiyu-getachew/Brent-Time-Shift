@@ -1,4 +1,3 @@
-```markdown
 # Change Point Analysis and Statistical Modelling of Brent Oil Prices
 
 This project focuses on detecting changes and associating causes in the time series data of Brent oil prices, specifically how significant political and economic events impact these prices.
