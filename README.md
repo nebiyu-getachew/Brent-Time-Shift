@@ -56,7 +56,7 @@ An interactive dashboard is developed using Flask and React, enabling dynamic ex
    ```bash
    npm start
    ```
-!(/dashboard/dashboard.png)
+![Dashboard](/dashboard/dashboard.png)
 
 ## Contributions
 
